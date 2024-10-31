@@ -8,7 +8,7 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 
 ## 💼 Sobre mí
 - 🎓 Actualmente desarrollador web junior y en constante aprendizaje.
-- 💻 Estoy focus en tecnologías web, especialmente **JavaScript**, **React**, y **Node.js**.
+- 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **React**, y **Node.js**.
 - 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
 - 📫 Contáctame: [Gmail](mailto:albertus1291@gmail.com) | [LinkedIn](https://www.linkedin.com/in/albert-castro-albacete-38204615a/)
 
@@ -25,15 +25,15 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 ## 📌 Proyectos destacados
 
 ### [🚀 Proyecto 1: Toggle Comments Visibility](https://marketplace.visualstudio.com/items?itemName=BeruzDev.toggle-comments-visibility)
-- 🔹 Extension para Visual Studio Code que permite alternar la visibilidad de los comentarios en tu código con un atajo personalizado.
+- 🔹 Extensión para Visual Studio Code que permite alternar la visibilidad de los comentarios en tu código con un atajo personalizado.
 
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?BeruzDev=tuusuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BeruzDev&show_icons=true&theme=radical)
 
 ## 🌐 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BeruzDev=tuusuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeruzDev&layout=compact&theme=radical)
 
 ---
 
