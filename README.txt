@@ -30,10 +30,10 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?BeruzDev=tuusuario&show_icons=true&theme=radical)
 
 ## 🌐 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BeruzDev=tuusuario&layout=compact&theme=radical)
 
 ---
 
