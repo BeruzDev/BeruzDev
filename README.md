@@ -10,7 +10,7 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 - 🎓 Actualmente desarrollador web junior y en constante aprendizaje.
 - 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **React**, y **Node.js**.
 - 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
-- 📫 Contáctame: [Gmail](mailto:albertus1291@gmail.com) | [LinkedIn](https://www.linkedin.com/in/albert-castro-albacete-38204615a/)
+- 📫 Contáctame: albertus1291@[gmail](mailto:albertus1291@gmail.com).com | [LinkedIn](https://www.linkedin.com/in/albert-castro-albacete-38204615a/)
 - 📁 [Portafolio](https://albertcastroportfolio.netlify.app/)
 
 ---
