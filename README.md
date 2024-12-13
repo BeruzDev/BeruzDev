@@ -25,8 +25,13 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 
 ## 📌 Proyectos destacados
 
+### [⌨️ A Typing Game](https://github.com/BeruzDev/a-typing-game)
+- 🔸 Un juego de mecanografía con estadísticas en tiempo real. Pon a prueba tus habilidades mientras mides tu velocidad y precisión. ¡Ideal para mejorar tu escritura al teclado! 
+- 🔸 **Tecnologías:** React.
+
 ### [🚀 Proyecto 1: Toggle Comments Visibility](https://marketplace.visualstudio.com/items?itemName=BeruzDev.toggle-comments-visibility)
 - 🔹 Extensión para Visual Studio Code que permite alternar la visibilidad de los comentarios en tu código con un atajo personalizado.
+- 🔹 **Tecnologías:** TypeScript.
 
 ---
 
