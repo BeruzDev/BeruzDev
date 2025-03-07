@@ -18,6 +18,7 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 ## 🔧 Tecnologías y herramientas</p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 200px;">
+
   - **Lenguajes:**</p>
 
   <div align="left">
