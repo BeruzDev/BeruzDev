@@ -72,7 +72,11 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 
 ### [💬 Beruz-Chat](https://chat-node-js-2u1m.onrender.com/)
 - 🟢 Chat en tiempo real con autolimpieza cada 15 minutos. ¡Abre múltiples pestañas y pruébalo en acción!
-- 🟢 **Tecnologías:** NodeJS, Express MySQL.
+- 🟢 **Tecnologías:** NodeJS, Express y MySQL.
+
+### [🏍 Ichiban-Clone](https://ichiban-clone.netlify.app/)
+- 🔴 Clon del efecto scroll de la pagina Ichiban-Bike. !Animacion super dinamica generada con frames!
+- 🔴 **Tecnologías:** CSS, HTML y JavaScript
 
 ---
 
