@@ -103,7 +103,4 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
   </a>
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/beruzdev/beruzdev/output/snake.svg" alt="Snake animation" />
 
