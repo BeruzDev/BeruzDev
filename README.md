@@ -61,6 +61,17 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 ---
 
 ## 📌 Proyectos destacados
+### [✂️ Craft it!](https://craftit.vercel.app)
+- 🟢 Acortador de URLs! Crea tu propio endpoint en *Craft it!* y comparte tus links de una fomra simple y segura!
+- 🟢 **Tecnologías:** NodeJS, Express, Supabase, React, CSS.
+
+### [🏍 Ichiban-Clone](https://ichiban-clone.netlify.app/)
+- 🔴 Clon del efecto scroll de la pagina Ichiban-Bike. !Animacion super dinamica generada con frames!
+- 🔴 **Tecnologías:** CSS, HTML y JavaScript
+
+### [💬 Beruz-Chat](https://chat-node-js-2u1m.onrender.com/)
+- 🟡 Chat en tiempo real con autolimpieza cada 15 minutos. ¡Abre múltiples pestañas y pruébalo en acción!
+- 🟡 **Tecnologías:** NodeJS, Express y MySQL.
 
 ### [⌨️ A Typing Game](https://atypinggame.netlify.app/)
 - 🟣 Un juego de mecanografía con estadísticas en tiempo real. Pon a prueba tus habilidades mientras mides tu velocidad y precisión. ¡Ideal para mejorar tu escritura al teclado! 
@@ -70,13 +81,6 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 - 🔵 Extensión para Visual Studio Code que permite alternar la visibilidad de los comentarios en tu código con un atajo personalizado.
 - 🔵 **Tecnologías:** TypeScript.
 
-### [💬 Beruz-Chat](https://chat-node-js-2u1m.onrender.com/)
-- 🟢 Chat en tiempo real con autolimpieza cada 15 minutos. ¡Abre múltiples pestañas y pruébalo en acción!
-- 🟢 **Tecnologías:** NodeJS, Express y MySQL.
-
-### [🏍 Ichiban-Clone](https://ichiban-clone.netlify.app/)
-- 🔴 Clon del efecto scroll de la pagina Ichiban-Bike. !Animacion super dinamica generada con frames!
-- 🔴 **Tecnologías:** CSS, HTML y JavaScript
 
 ---
 
