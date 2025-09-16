@@ -64,6 +64,10 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 ### [✂️ Craft it!](https://craftit.vercel.app)
 - 🟢 Acortador de URLs! Crea tu propio endpoint en *Craft it!* y comparte tus links de una fomra simple y segura!
 - 🟢 **Tecnologías:** NodeJS, Express, Supabase, React, CSS.
+  
+### [🔤 Traductor-AI](https://ai-translate-project.vercel.app)
+- ⚪ Traductor inteligente, detecta el idioma introducido y lo traduce a cualquier idioma utilizando la API de OpenAi.
+- ⚪ **Tecnologías:** React, TypeScript y OpenAi-API.
 
 ### [🏍 Ichiban-Clone](https://ichiban-clone.netlify.app/)
 - 🔴 Clon del efecto scroll de la pagina Ichiban-Bike. !Animacion super dinamica generada con frames!
