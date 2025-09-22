@@ -64,6 +64,10 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 ### [✂️ Craft it!](https://craftit.vercel.app)
 - 🟢 Acortador de URLs! Crea tu propio endpoint en *Craft it!* y comparte tus links de una fomra simple y segura!
 - 🟢 **Tecnologías:** NodeJS, Express, Supabase, React, CSS.
+- 
+### [JS Quiz](https://java-script-quiz-kappa.vercel.app/)
+- 🟡 Questionario de Javascript, pon a prueba tus conocimientos sobre JS y demuestra lo que sabes!
+- 🟡 **Tecnologías:** TS, React, Mui.
   
 ### [🔤 Traductor-AI](https://ai-translate-project.vercel.app)
 - ⚪ Traductor inteligente, detecta el idioma introducido y lo traduce a cualquier idioma utilizando la API de OpenAi.
@@ -74,8 +78,8 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 - 🔴 **Tecnologías:** CSS, HTML y JavaScript
 
 ### [💬 Nodejs-Chat](https://chat-node-js-2u1m.onrender.com/)
-- 🟡 Chat en tiempo real con autolimpieza cada 15 minutos. ¡Abre múltiples pestañas y pruébalo en acción!
-- 🟡 **Tecnologías:** NodeJS, Express y MySQL.
+- 🟠 Chat en tiempo real con autolimpieza cada 15 minutos. ¡Abre múltiples pestañas y pruébalo en acción!
+- 🟠 **Tecnologías:** NodeJS, Express y MySQL.
 
 ### [⌨️ A Typing Game](https://atypinggame.netlify.app/)
 - 🟣 Un juego de mecanografía con estadísticas en tiempo real. Pon a prueba tus habilidades mientras mides tu velocidad y precisión. ¡Ideal para mejorar tu escritura al teclado! 
