@@ -65,7 +65,7 @@ Soy un desarrollador web junior con el grado superior de DAW recién terminado, 
 - 🟢 Acortador de URLs! Crea tu propio endpoint en *Craft it!* y comparte tus links de una fomra simple y segura!
 - 🟢 **Tecnologías:** NodeJS, Express, Supabase, React, CSS.
 - 
-### [JS Quiz](https://java-script-quiz-kappa.vercel.app/)
+### [👨‍💻 JS Quiz](https://java-script-quiz-kappa.vercel.app/)
 - 🟡 Questionario de Javascript, pon a prueba tus conocimientos sobre JS y demuestra lo que sabes!
 - 🟡 **Tecnologías:** TS, React, Mui.
   
