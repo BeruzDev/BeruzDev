@@ -2,16 +2,16 @@
 
 ¡Bienvenido a mi perfil de GitHub! 
 
-Soy un desarrollador web junior con el grado superior de DAW recién terminado, en busca de mi primer empleo y desarrollando todo lo que se me ocurre. Aquí encontrarás algunos de mis proyectos y colaboraciones. 🚀
+Soy desarrollador fullstack para la empres Plexus, actualmente trabajando para AirEuropa. Aquí encontrarás algunos de mis proyectos freelance y colaboraciones. 🚀
 
 ---
 
 ## 💼 Sobre mí
-- 🎓 Actualmente desarrollador web junior y en constante aprendizaje.
+- 🎓 Actualmente desarrollador fullstak React/NodeJS.
 - 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **React**, y **Node.js**.
 - 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
 - 📫 Contáctame: albertus1291@[gmail](mailto:albertus1291@gmail.com).com | [LinkedIn](https://www.linkedin.com/in/albert-castro-albacete-38204615a/)
-- 📁 [Portafolio](https://albertcastro.vercel.app/)
+- 📁 [Portafolio](https://albertcastro.es/)
 
 ---
 
